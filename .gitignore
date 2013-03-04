@@ -1,1 +1,4 @@
 /application/cache/
+/sql/poe.mwb
+/sql/poe.mwb.bak
+/sql/data.sql
