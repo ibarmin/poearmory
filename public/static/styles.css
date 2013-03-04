@@ -1,0 +1,87 @@
+#menu ul li {
+	display: inline-block;
+}
+.inventory {
+    position: absolute;
+    border: 1px gray solid;
+}
+
+.hint {
+    font-weight: 80%;
+    font-size: 75%;
+    color: gray;
+}
+#item-holder {
+    display:none;
+}
+/* Generic doll positions (no class specific stuff yet)*/
+#character {
+    position: relative;
+    min-height: 500px;
+}
+
+.inventory-helm {
+    left: 50%;
+    margin-left: -50px;
+    top: 0px;
+}
+
+.inventory-bodyarmour{
+    left: 50%;
+    margin-left: -50px;
+    top: 100px;
+}
+
+.inventory-belt {
+    left: 50%;
+    margin-left: -50px;
+    top: 250px;
+}
+
+.inventory-weapon {
+    left: 50%;
+    margin-left: -150px;
+    top: 0px;    
+}
+
+.inventory-boots {
+    left: 50%;
+    margin-left: -50px;
+    top: 305px;
+}
+
+.inventory-gloves {
+    left: 50%;
+    margin-left: -150px;
+    top: 250px;
+}
+
+.inventory-flask {
+    left: 50%;
+    margin-left: -125px;
+    top: 410px;    
+}
+
+.inventory-amulet {
+    left: 50%;
+    margin-left: 50px;
+    top: 0px;
+}
+
+.inventory-offhand {
+    left: 50%;
+    margin-left: 50px;
+    top: 55px;    
+}
+
+.inventory-ring {
+    left: 50%;
+    margin-left: 50px;
+    top: 250px;
+}
+
+.inventory-ring2 {
+    left: 50%;
+    margin-left: 102px;
+    top: 250px;
+}
